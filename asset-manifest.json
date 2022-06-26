@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/silarce/googleMapLab/static/css/main.aa1bad69.css",
-    "main.js": "/silarce/googleMapLab/static/js/main.af4e4f7c.js",
-    "index.html": "/silarce/googleMapLab/index.html",
-    "main.aa1bad69.css.map": "/silarce/googleMapLab/static/css/main.aa1bad69.css.map",
-    "main.af4e4f7c.js.map": "/silarce/googleMapLab/static/js/main.af4e4f7c.js.map"
+    "main.css": "/googleMapLab/static/css/main.aa1bad69.css",
+    "main.js": "/googleMapLab/static/js/main.af4e4f7c.js",
+    "index.html": "/googleMapLab/index.html",
+    "main.aa1bad69.css.map": "/googleMapLab/static/css/main.aa1bad69.css.map",
+    "main.af4e4f7c.js.map": "/googleMapLab/static/js/main.af4e4f7c.js.map"
   },
   "entrypoints": [
     "static/css/main.aa1bad69.css",
